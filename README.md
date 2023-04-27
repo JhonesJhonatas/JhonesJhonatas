@@ -1,6 +1,6 @@
 ### Bora Codaaa! </> 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?JhonesJhonatas=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonesJhonatas&hide_progress=true)](https://github.com/JhonesJhonatas/github-readme-stats)
 
 <!--
 **JhonesJhonatas/JhonesJhonatas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
