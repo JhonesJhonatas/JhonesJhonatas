@@ -1,7 +1,5 @@
 Olá! Me chamo Jhones Jhonatas 👋
 
-⚛️ - Studing ReactJs
-
 <!--
 **JhonesJhonatas/JhonesJhonatas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
