@@ -10,17 +10,38 @@
   
 ## Linguagens, Bibliotecas e Softwares - 💻
   
-  ### Linguages
+<div style="display: flex">
+
+  <div style="background-color: #64748b; padding: 2rem">
+    <h3>⚛️ - Languages</h3>
+    <ul>
+      <li>Html</li>
+      <li>Css</li>
+      <li>JavaScript</li>
+      <li>TypeScript</li>
+    </ul>
+  </div>
   
-<ul>
-  <li>Html</li>
-  <li>Css</li>
-  <li>JavaScript</li>
-  <li>TypeScript</li>
-  <li>Tailwind</li>
-  <li>ReactJs</li>
-  <li>NextJs</li>
-</ul>
+  <div style="background-color: #64748b; padding: 2rem">
+    <h3>🗃️ - Framworks</h3>
+    <ul>
+      <li>ReactJs</li>
+      <li>NodeJs</li>
+      <li>NextJs</li>
+    </ul>
+  </div>
+  
+   <div style="background-color: #64748b; padding: 2rem">
+    <h3>📚 - Libraries</h3>
+    <ul>
+      <li>Tailwind</li>
+      <li>Styles Components</li>
+      <li>React Hook Form</li>
+      <li>React Router Dom</li>
+    </ul>
+  </div>
+  
+</div>
   
   ### Onde me encontrar - 📱
  
