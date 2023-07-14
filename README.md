@@ -13,32 +13,40 @@
 <div style="display: flex">
 
   <div style="background-color: #64748b; padding: 2rem">
-    <h3>⚛️ - Languages</h3>
-    <ul>
-      <li>Html</li>
-      <li>Css</li>
-      <li>JavaScript</li>
-      <li>TypeScript</li>
-    </ul>
+    <details>
+      <summary>⚛️ - Languages</summary>
+      <ul>
+            <li>Html</li>
+            <li>Css</li>
+            <li>JavaScript</li>
+            <li>TypeScript</li>
+      </ul>
+    </details>
   </div>
   
   <div style="background-color: #64748b; padding: 2rem">
-    <h3>🗃️ - Framworks</h3>
-    <ul>
+    <details>
+    <summary>🗃️ - Framworks</summary>
+      <ul>
       <li>ReactJs</li>
       <li>NodeJs</li>
       <li>NextJs</li>
     </ul>
+    </details>
   </div>
   
    <div style="background-color: #64748b; padding: 2rem">
-    <h3>📚 - Libraries</h3>
+     <details>
+    <summary>📚 - Libraries</summary>
     <ul>
       <li>Tailwind</li>
       <li>Styles Components</li>
       <li>React Hook Form</li>
       <li>React Router Dom</li>
+      <li>Zod</li>
+      <li>Axios</li>
     </ul>
+    </details>
   </div>
   
 </div>
