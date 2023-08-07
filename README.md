@@ -2,12 +2,6 @@
 
 <br />
 
-<div style="display: flex">
-  <a href="https://github.com/JhonesJhonatas">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=JhonesJhonatas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img style="flex: 1" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonesJhonatas&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
 ## Linguagens, Bibliotecas e Softwares - 💻
   
 <div style="display: flex">
