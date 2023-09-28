@@ -1,5 +1,11 @@
 ## Olá, Pode me chamar de Jota 👋
 
+Estou migrando de carreira, de Diretor de Arte Sênior para Desenvolvedor FullStack
+
+### Experiência Profissional
+
+TôMaisVip - FullStack - 6 meses
+
 <br />
 
 ## Linguagens, Bibliotecas e Softwares - 💻
@@ -8,7 +14,7 @@
 
   <div style="background-color: #64748b; padding: 2rem">
     <details>
-      <summary>⚛️ - Languages</summary>
+      <summary>⚛️ - Linguagens</summary>
       <ul>
             <li>Html</li>
             <li>Css</li>
@@ -20,11 +26,12 @@
   
   <div style="background-color: #64748b; padding: 2rem">
     <details>
-    <summary>🗃️ - Framworks</summary>
+    <summary>🗃️ - Tecnologias</summary>
       <ul>
       <li>ReactJs</li>
       <li>NodeJs</li>
       <li>NextJs</li>
+      <li>PostgreSql</li>
     </ul>
     </details>
   </div>
@@ -33,6 +40,11 @@
      <details>
     <summary>📚 - Libraries</summary>
     <ul>
+      <li>PrismaJs</li>
+      <li>StyledComponents</li>
+      <li>RadixUi</li>
+      <li>React-Router-Dom</li>
+      <li>React-Hook-Form</li>
       <li>Tailwind</li>
       <li>Styles Components</li>
       <li>React Hook Form</li>
