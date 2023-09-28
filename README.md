@@ -1,8 +1,12 @@
 ## Olá, Pode me chamar de Jota 👋
 
-💻 - Estou migrando de carreira, de Diretor de Arte Sênior para Desenvolvedor FullStack
-⚛️ - Meu Objetivo é levar soluções com tecnologia para as pessoas
-👨‍💻 - Amo Desenvolver e tenho planos bastante consistentes para o futuro como dev.
+<div style="background-color: #64748b; padding: 2rem; list-style: none;">
+      <ul>
+            <li>💻 - Estou migrando de carreira, de Diretor de Arte Sênior para Desenvolvedor FullStack</li>
+            <li>⚛️ - Meu Objetivo é levar soluções com tecnologia para as pessoas</li>
+            <li>👨‍💻 - Amo Desenvolver e tenho planos bastante consistentes para o futuro como dev</li>
+      </ul>
+  </div>
 
 ### Experiência Profissional
 
