@@ -2,9 +2,9 @@
 
 <div style="background-color: #64748b; padding: 2rem; list-style: none;">
       <ul>
-            <li>💻 - Estou migrando de carreira, de Diretor de Arte Sênior para Desenvolvedor FullStack</li>
-            <li>⚛️ - Meu Objetivo é levar soluções com tecnologia para as pessoas</li>
-            <li>👨‍💻 - Amo Desenvolver e tenho planos bastante consistentes para o futuro como dev</li>
+            <li>💻 - Desenvolvedor FullStack</li>
+            <li>⚛️ React | 💚 Node | ⚛️ ReactNative</li>
+            <li>👨‍💻 - Estudando regularmente(Alura, RocketSeat)</li>
       </ul>
   </div>
 
