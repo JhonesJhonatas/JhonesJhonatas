@@ -6,7 +6,20 @@
             <li>⚛️ React | 💚 Node | ⚛️ ReactNative</li>
             <li>👨‍💻 - Estudando regularmente(Alura, RocketSeat)</li>
       </ul>
-  </div>
+</div>
+
+#### Um pouco mais sobre mim
+```javascript
+const jhonesJhonatas = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Typescript", "HTML", "CSS"],
+  askMeAbout: ["web dev", "frontend dev", "backend dev", "mobile dev"],
+  technologies: {
+      frontend: ["ReactJS", "JS", "TS"],
+      backend: ["NodeJs", "JS", "TS"],
+  }
+}
+```
 
 ### Experiência Profissional
 
