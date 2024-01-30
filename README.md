@@ -4,7 +4,6 @@
       <ul>
             <li>💻 - Desenvolvedor FullStack</li>
             <li>⚛️ React | 💚 Node | ⚛️ ReactNative</li>
-            <li>👨‍💻 - Estudando regularmente(Alura, RocketSeat)</li>
       </ul>
 </div>
 
