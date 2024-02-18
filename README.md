@@ -20,10 +20,6 @@ const jhonesJhonatas = {
 }
 ```
 
-### Experiência Profissional
-
-TôMaisVip - FullStack - 6 meses
-
 ## Linguagens, Bibliotecas e Softwares - 💻
   
 <div style="display: flex">
