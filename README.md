@@ -1,73 +1,44 @@
-## Olá, Pode me chamar de Jota 👋
-
-<div style="background-color: #64748b; padding: 2rem; list-style: none;">
-      <ul>
-            <li>💻 - Desenvolvedor FullStack</li>
-            <li>⚛️ React | 💚 Node | ⚛️ ReactNative</li>
-      </ul>
-</div>
-
-#### Um pouco mais sobre mim
 ```javascript
-const jhonesJhonatas = {
-  pronouns: "He" | "Him",
-  code: ["Javascript", "Typescript", "HTML", "CSS"],
-  askMeAbout: ["web dev", "frontend dev", "backend dev", "mobile dev"],
-  technologies: {
-      frontend: ["ReactJS", "JS", "TS"],
-      backend: ["NodeJs", "JS", "TS"],
-  }
+const aBitOfMe = {
+  person: {
+    name: 'Jhones Jhonatas',
+    hobbies: ['Sing', 'Play Guitar', 'Travel'],
+  },
+  hardSkills: {
+    frontEnd: [
+      'javascript',
+      'typescript',
+      'reactJs',
+      'nodeJs',
+      'css',
+      'tailwind',
+      'styledComponents',
+    ],
+    backend: [
+      'javascript',
+      'typescript',
+      'nodeJs',
+      'postgreSql',
+      'mySql',
+      'nestJs',
+      'awsSqs',
+      'awsSns',
+    ],
+  },
+  softSkills: [
+    'effectiveCommunication',
+    'teamwork',
+    'problemSolving',
+    'adaptability',
+    'timeManagement',
+    'attentionToDetail',
+    'criticalThinking',
+    'empathy',
+    'proactivity',
+    'resilience',
+  ],
 }
 ```
-
-## Linguagens, Bibliotecas e Softwares - 💻
-  
-<div style="display: flex">
-
-  <div style="background-color: #64748b; padding: 2rem">
-    <details>
-      <summary>⚛️ - Linguagens</summary>
-      <ul>
-            <li>Html</li>
-            <li>Css</li>
-            <li>JavaScript</li>
-            <li>TypeScript</li>
-      </ul>
-    </details>
-  </div>
-  
-  <div style="background-color: #64748b; padding: 2rem">
-    <details>
-    <summary>🗃️ - Tecnologias</summary>
-      <ul>
-      <li>ReactJs</li>
-      <li>NodeJs</li>
-      <li>NextJs</li>
-      <li>PostgreSql</li>
-    </ul>
-    </details>
-  </div>
-  
-   <div style="background-color: #64748b; padding: 2rem">
-     <details>
-    <summary>📚 - Libraries</summary>
-    <ul>
-      <li>PrismaJs</li>
-      <li>StyledComponents</li>
-      <li>RadixUi</li>
-      <li>React-Router-Dom</li>
-      <li>React-Hook-Form</li>
-      <li>Tailwind</li>
-      <li>Styles Components</li>
-      <li>React Hook Form</li>
-      <li>React Router Dom</li>
-      <li>Zod</li>
-      <li>Axios</li>
-    </ul>
-    </details>
-  </div>
-  
-</div>
   
   ### Onde me encontrar - 📱
  
