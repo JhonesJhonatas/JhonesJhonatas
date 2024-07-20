@@ -23,6 +23,7 @@ const aBitOfMe = {
       'nestJs',
       'awsSqs',
       'awsSns',
+      'jest',
     ],
   },
   softSkills: [
