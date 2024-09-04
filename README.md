@@ -1,51 +1,27 @@
-```javascript
-const aBitOfMe = {
-  person: {
-    name: 'Jhones Jhonatas',
-    hobbies: ['Sing', 'Play Guitar', 'Travel'],
-  },
-  hardSkills: {
-    frontEnd: [
-      'javascript',
-      'typescript',
-      'reactJs',
-      'nodeJs',
-      'css',
-      'tailwind',
-      'styledComponents',
-    ],
-    backend: [
-      'javascript',
-      'typescript',
-      'nodeJs',
-      'postgreSql',
-      'mySql',
-      'nestJs',
-      'awsSqs',
-      'awsSns',
-      'jest',
-    ],
-  },
-  softSkills: [
-    'effectiveCommunication',
-    'teamwork',
-    'problemSolving',
-    'adaptability',
-    'timeManagement',
-    'attentionToDetail',
-    'criticalThinking',
-    'empathy',
-    'proactivity',
-    'resilience',
-  ],
-}
-```
-  
-  ### Onde me encontrar - 📱
- 
-<div> 
-  
-  <a href="https://www.instagram.com/jhones.jhonatas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jhonesjhonatas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  
-</div>
+<h1 align="center">Olá 🖖 Me chamo Jhones</h1>
+
+> 🚀 Desenvolvedor FullStack há mais de 3 Anos no mercado.
+
+> ⭐ Desenvolvi sistemas e aplicativos complexos, com grande número de usuários e fluxo de dados.
+
+> 🧑‍💻 Meu objetivo é aprender cada vez mais, para conseguir criar ferramentas cada vez mais poderosas com meu conhecimento.
+
+## FrontEnd
+
+> Atuo como líder de Frond End na empresa que trabalho
+
+> Refatorei o FronEnd com uma estrutura modular escalável, responsável por reduzir consideravelmente o tempo de desenvolvimento de todos os desenvolvedores. (Tem um projeto aqui com a documentação que criei sobre a estrutura)
+
+> Criei biblioteca de componentes, consolidando a identidade visual da empresa e agilizando ainda mais o desenvolvimento de novas features
+
+> Criei do 0 um sistema financeiro para gestão de uma empresa e envio de boletos para cliente automaticamente.
+
+## BackEnd
+
+> Criei do 0 um sistema financeiro para gestão de uma empresa e envio de boletos para cliente automaticamente.
+
+> Atuo na criação de novas features e manutenção de uma Api de agendamento de diárias de prestadoras.
+
+## ReactNative
+
+> Criei do 0 um aplicativo para uma empresa de Diaristas, nele as prestadoras podem ver sua agenda, seu histórico de agendamentos, abrir um chamado, e consultar suas receitas adiqridas no mês, o cliente pode ver seus agendamentos, solicitar novos e visualizar os boletos.
