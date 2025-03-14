@@ -28,4 +28,4 @@
 
 ##
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,angular,html,css,nest,jest,tailwind,styledcomponents,vscode,vite,postman,npm,vercel,docker,postgres,github,express,vite,prisma,postgres,mongodb,mysql,aws,git,github,gitlab,heroku&perline=20" alt="icons" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,angular,html,css,nest,jest,tailwind,styledcomponents,vscode,vite,postman,npm,vercel,docker,postgres,github,express,vite,prisma,postgres,mongodb,mysql,aws,git,github,gitlab,heroku&perline=20" alt="icons" />
